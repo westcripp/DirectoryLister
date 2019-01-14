@@ -4,7 +4,7 @@
 
     <head>
 
-        <title>Directory listing of <?php echo $lister->getListedPath(); ?></title>
+        <title>ResurrectionRemix Downloads</title>
         <link rel="shortcut icon" href="<?php echo THEMEPATH; ?>/img/folder.png">
 
         <!-- STYLES -->
@@ -24,7 +24,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta charset="utf-8">
 
-        <?php file_exists('analytics.inc') ? include('analytics.inc') : false; ?>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4420370595723249"
+     data-ad-slot="4454572951"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
     </head>
 
@@ -164,6 +173,16 @@
                 </div>
             </div>
         </div>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4420370595723249"
+     data-ad-slot="4454572951"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
     </body>
 

@@ -627,17 +627,23 @@ class DirectoryLister {
 
                         if (is_dir($relativePath)) {
                             $urlPath = $this->containsIndex($relativePath) ? $relativePath : '?dir=' . $urlPath;
-                        }
+                        } else {
+                            $urlPath = 'https://downloads.sourceforge.net/project/resurrectionremix-pie/' . $relativePath;
+			}
 
-                        // Add the info to the main array
-                        $directoryArray[pathinfo($relativePath, PATHINFO_BASENAME)] = array(
-                            'file_path'  => $relativePath,
-                            'url_path'   => $urlPath,
-                            'file_size'  => is_dir($realPath) ? '-' : $this->getFileSize($realPath),
-                            'mod_time'   => date($this->_config['date_format'], filemtime($realPath)),
-                            'icon_class' => $iconClass,
-                            'sort'       => $sort
-                        );
+			$modificationTime = filemtime($realPath);
+			if (time() - $modificationTime > 900) {
+
+                            // Add the info to the main array
+                            $directoryArray[pathinfo($relativePath, PATHINFO_BASENAME)] = array(
+                                'file_path'  => $relativePath,
+                                'url_path'   => $urlPath,
+                                'file_size'  => is_dir($realPath) ? '-' : $this->getFileSize($realPath),
+                                'mod_time'   => date($this->_config['date_format'],$modificationTime),
+                                'icon_class' => $iconClass,
+                                'sort'       => $sort
+                            );
+			}
                     }
 
                 }
