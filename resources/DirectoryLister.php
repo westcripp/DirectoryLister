@@ -632,7 +632,7 @@ class DirectoryLister {
 			}
 
 			$modificationTime = filemtime($realPath);
-			if (time() - $modificationTime > 900 || is_dir($relativePath)) {
+			if (time() - $modificationTime > 600 || is_dir($relativePath)) {
 
                             // Add the info to the main array
                             $directoryArray[pathinfo($relativePath, PATHINFO_BASENAME)] = array(
