@@ -628,7 +628,7 @@ class DirectoryLister {
                         if (is_dir($relativePath)) {
                             $urlPath = $this->containsIndex($relativePath) ? $relativePath : '?dir=' . $urlPath;
                         } else {
-                            $urlPath = 'https://downloads.sourceforge.net/project/resurrectionremix-pie/' . $relativePath;
+                            $urlPath = shell_exec('curl -Is https://downloads.sourceforge.net/project/resurrectionremix-pie/' . $relativePath . ' | grep Location: | cut -d\' \' -f2');
 			}
 
 			$modificationTime = filemtime($realPath);
