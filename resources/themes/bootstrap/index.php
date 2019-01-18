@@ -30,6 +30,8 @@
             enable_page_level_ads: true
         });
         </script>
+<div id="amzn-assoc-ad-6a99ad91-745e-43c4-9407-a4b662fffdab"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=6a99ad91-745e-43c4-9407-a4b662fffdab"></script>
+
     </head>
     <body>
 
