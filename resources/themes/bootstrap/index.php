@@ -30,7 +30,18 @@
             enable_page_level_ads: true
         });
         </script>
-<div id="amzn-assoc-ad-6a99ad91-745e-43c4-9407-a4b662fffdab"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=6a99ad91-745e-43c4-9407-a4b662fffdab"></script>
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_tracking_id = "resurrectio0d-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_linkid = "a7090f88ec22a7ccb055e22b255ae66c";
+amzn_assoc_design = "in_content";
+amzn_assoc_asins = "B07H41NB46,B07JQBLTFM,B07GXPDNY7,B07HDCC125,B07HRNCHQB,B07H97XJQV,B07H4XT67N,B07HRP8VNR,B07L82C9CS,B07H7KF47N";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
 
     </head>
     <body>
