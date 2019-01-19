@@ -174,7 +174,16 @@ amzn_assoc_asins = "B07H41NB46,B07JQBLTFM,B07GXPDNY7,B07HDCC125,B07HRNCHQB,B07H9
 
                             </tbody>
                         </table>
-
+        amzn_assoc_placement = "adunit0";
+        amzn_assoc_tracking_id = "resurrectio0d-20";
+        amzn_assoc_ad_mode = "manual";
+        amzn_assoc_ad_type = "smart";
+        amzn_assoc_marketplace = "amazon";
+        amzn_assoc_region = "US";
+        amzn_assoc_linkid = "a7090f88ec22a7ccb055e22b255ae66c";
+        amzn_assoc_design = "in_content";
+        amzn_assoc_asins = "B07K76LBLZ,B0787NNSK9,B079C1K282,B072QG8BX6,B00VQR7MVQ,B00NRNTVXO,B079H6RLKQ,B07C65XFBB,B07BBVQVCH";
+        </script>
                     </div>
 
                 </div>
