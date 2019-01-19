@@ -31,17 +31,15 @@
         });
         </script>
 <script type="text/javascript">
-amzn_assoc_placement = "adunit0";
-amzn_assoc_tracking_id = "resurrectio0d-20";
-amzn_assoc_ad_mode = "manual";
-amzn_assoc_ad_type = "smart";
-amzn_assoc_marketplace = "amazon";
-amzn_assoc_region = "US";
-amzn_assoc_linkid = "a7090f88ec22a7ccb055e22b255ae66c";
-amzn_assoc_design = "in_content";
-amzn_assoc_asins = "B07H41NB46,B07JQBLTFM,B07GXPDNY7,B07HDCC125,B07HRNCHQB,B07H97XJQV,B07H4XT67N,B07HRP8VNR,B07L82C9CS,B07H7KF47N";
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"westcrip","width":728,"height":90,"sid":"Chitika Default"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
 </script>
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
 
     </head>
     <body>
@@ -174,16 +172,16 @@ amzn_assoc_asins = "B07H41NB46,B07JQBLTFM,B07GXPDNY7,B07HDCC125,B07HRNCHQB,B07H9
 
                             </tbody>
                         </table>
-        amzn_assoc_placement = "adunit0";
-        amzn_assoc_tracking_id = "resurrectio0d-20";
-        amzn_assoc_ad_mode = "manual";
-        amzn_assoc_ad_type = "smart";
-        amzn_assoc_marketplace = "amazon";
-        amzn_assoc_region = "US";
-        amzn_assoc_linkid = "a7090f88ec22a7ccb055e22b255ae66c";
-        amzn_assoc_design = "in_content";
-        amzn_assoc_asins = "B07K76LBLZ,B0787NNSK9,B079C1K282,B072QG8BX6,B00VQR7MVQ,B00NRNTVXO,B079H6RLKQ,B07C65XFBB,B07BBVQVCH";
-        </script>
+<script type="text/javascript">
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"westcrip","width":728,"height":90,"sid":"Chitika Default"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
                     </div>
 
                 </div>
