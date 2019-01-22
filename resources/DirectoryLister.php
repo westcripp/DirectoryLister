@@ -624,11 +624,12 @@ class DirectoryLister {
 
                         // Build the file path
                         $urlPath = implode('/', array_map('rawurlencode', explode('/', $relativePath)));
+						$ts = time();
 
                         if (is_dir($relativePath)) {
                             $urlPath = $this->containsIndex($relativePath) ? $relativePath : '?dir=' . $urlPath;
                         } else {
-                            $urlPath = 'https://downloads.sourceforge.net/project/resurrectionremix-pie/' . $relativePath;
+                            $urlPath = 'https://downloads.sourceforge.net/project/resurrectionremix-pie/' . $relativePath . "?r=&ts=$ts";
 			}
 
 			$modificationTime = filemtime($realPath);
