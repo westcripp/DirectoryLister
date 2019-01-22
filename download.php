@@ -1,7 +1,7 @@
 <html>
 <?php
-if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['id'])) {
-	$id=$_POST['id'];
+if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['id'])) {
+	$id=$_GET['id'];
 } else {
 	die('Invalid request');
 }
