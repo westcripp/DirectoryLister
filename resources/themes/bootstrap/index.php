@@ -152,11 +152,11 @@ data-ad-slot="4149268859"></ins>
         </div>
         <?php file_exists('footer.php') ? include('footer.php') : include($lister->getThemePath(true) . "/default_footer.php"); ?>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Portrait -->
+<!-- Large Leaderboard1 -->
 <ins class="adsbygoogle"
-style="display:inline-block;width:300px;height:1050px"
+style="display:inline-block;width:970px;height:90px"
 data-ad-client="ca-pub-6660944894347757"
-data-ad-slot="2607018677"></ins>
+data-ad-slot="7108837632"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
