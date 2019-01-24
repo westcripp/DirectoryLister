@@ -30,6 +30,7 @@
             enable_page_level_ads: true
         });
     </script>
+    <center>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Billboard -->
     <ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-6660944894347757"
@@ -37,6 +38,7 @@
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
+    </center>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132900199-1"></script>
     <script>
@@ -179,6 +181,7 @@
             </div>
         </div>
     </div>
+    <center>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <!-- Billboard -->
     <ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-6660944894347757"
@@ -186,6 +189,7 @@
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({});
     </script>
+    </center>
 
 </body>
 
