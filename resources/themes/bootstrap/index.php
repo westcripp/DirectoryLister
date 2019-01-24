@@ -150,6 +150,7 @@ data-ad-slot="4149268859"></ins>
 
             </ul>
         </div>
+        <?php file_exists('footer.php') ? include('footer.php') : include($lister->getThemePath(true) . "/default_footer.php"); ?>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Portrait -->
 <ins class="adsbygoogle"
@@ -159,8 +160,6 @@ data-ad-slot="2607018677"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-        <?php file_exists('footer.php') ? include('footer.php') : include($lister->getThemePath(true) . "/default_footer.php"); ?>
-
         <div id="file-info-modal" class="modal fade">
             <div class="modal-dialog">
                 <div class="modal-content">
