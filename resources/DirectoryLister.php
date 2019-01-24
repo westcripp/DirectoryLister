@@ -629,7 +629,7 @@ class DirectoryLister {
                         if (is_dir($relativePath)) {
                             $urlPath = $this->containsIndex($relativePath) ? $relativePath : '?dir=' . $urlPath;
                         } else {
-                            $urlPath = 'https://downloads.sourceforge.net/project/resurrectionremix-pie/' . $relativePath . "?r=&ts=$ts";
+                            $urlPath = 'https://get.resurrectionremix.com/download.php?id=' . base64_encode($relativePath);
 			}
 
 			$modificationTime = filemtime($realPath);
