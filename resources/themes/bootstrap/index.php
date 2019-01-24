@@ -150,7 +150,6 @@ data-ad-slot="4149268859"></ins>
 
             </ul>
         </div>
-
         <?php file_exists('footer.php') ? include('footer.php') : include($lister->getThemePath(true) . "/default_footer.php"); ?>
 
         <div id="file-info-modal" class="modal fade">
@@ -161,7 +160,6 @@ data-ad-slot="4149268859"></ins>
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <h4 class="modal-title">{{modal_header}}</h4>
                     </div>
-
                     <div class="modal-body">
 
                         <table id="file-info" class="table table-bordered">
@@ -180,15 +178,6 @@ data-ad-slot="4149268859"></ins>
                             </tbody>
                         </table>
                     </div>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Billboard -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:970px;height:250px"
-data-ad-client="ca-pub-6660944894347757"
-data-ad-slot="4149268859"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
                 </div>
             </div>
         </div>
