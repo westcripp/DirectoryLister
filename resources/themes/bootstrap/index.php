@@ -30,15 +30,6 @@
             enable_page_level_ads: true
         });
         </script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Billboard -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:970px;height:250px"
-data-ad-client="ca-pub-6660944894347757"
-data-ad-slot="4149268859"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132900199-1"></script>
         <script>
@@ -151,15 +142,6 @@ data-ad-slot="4149268859"></ins>
             </ul>
         </div>
         <?php file_exists('footer.php') ? include('footer.php') : include($lister->getThemePath(true) . "/default_footer.php"); ?>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Large Leaderboard1 -->
-<ins class="adsbygoogle"
-style="display:inline-block;width:970px;height:90px"
-data-ad-client="ca-pub-6660944894347757"
-data-ad-slot="7108837632"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
         <div id="file-info-modal" class="modal fade">
             <div class="modal-dialog">
                 <div class="modal-content">
