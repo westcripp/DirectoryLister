@@ -150,19 +150,7 @@
 
             </ul>
         </div>
-        <?php file_exists('footer.php') ? include('footer.php') : include($lister->getThemePath(true) . "/default_footer.php"); ?>
-        <div id="file-info-modal" class="modal fade">
-            <div class="modal-dialog">
-                <div class="modal-content">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-       <!-- Billboard -->
-         <ins class="adsbygoogle"
-          style="display:inline-block;width:970px;height:250px"
-          data-ad-client="ca-pub-6660944894347757"
-          data-ad-slot="4149268859"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <h4 class="modal-title">{{modal_header}}</h4>
@@ -188,5 +176,18 @@
                 </div>
             </div>
         </div>
+        <?php file_exists('footer.php') ? include('footer.php') : include($lister->getThemePath(true) . "/default_footer.php"); ?>
+        <div id="file-info-modal" class="modal fade">
+            <div class="modal-dialog">
+                <div class="modal-content">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+       <!-- Billboard -->
+         <ins class="adsbygoogle"
+          style="display:inline-block;width:970px;height:250px"
+          data-ad-client="ca-pub-6660944894347757"
+          data-ad-slot="4149268859"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
     </body>
 </html>
