@@ -624,27 +624,20 @@ class DirectoryLister {
 
                         // Build the file path
                         $urlPath = implode('/', array_map('rawurlencode', explode('/', $relativePath)));
-						$ts = time();
 
                         if (is_dir($relativePath)) {
                             $urlPath = $this->containsIndex($relativePath) ? $relativePath : '?dir=' . $urlPath;
-                        } else {
-                            $urlPath = 'https://get.resurrectionremix.com/download.php?id=' . base64_encode($relativePath);
-			}
+                        }
 
-			$modificationTime = filemtime($realPath);
-			if (time() - $modificationTime > 600 || is_dir($relativePath)) {
-
-                            // Add the info to the main array
-                            $directoryArray[pathinfo($relativePath, PATHINFO_BASENAME)] = array(
-                                'file_path'  => $relativePath,
-                                'url_path'   => $urlPath,
-                                'file_size'  => is_dir($realPath) ? '-' : $this->getFileSize($realPath),
-                                'mod_time'   => date($this->_config['date_format'],$modificationTime),
-                                'icon_class' => $iconClass,
-                                'sort'       => $sort
-                            );
-			}
+                        // Add the info to the main array
+                        $directoryArray[pathinfo($relativePath, PATHINFO_BASENAME)] = array(
+                            'file_path'  => $relativePath,
+                            'url_path'   => $urlPath,
+                            'file_size'  => is_dir($realPath) ? '-' : $this->getFileSize($realPath),
+                            'mod_time'   => date($this->_config['date_format'], filemtime($realPath)),
+                            'icon_class' => $iconClass,
+                            'sort'       => $sort
+                        );
                     }
 
                 }
