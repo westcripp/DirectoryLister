@@ -37,7 +37,7 @@ return array(
     ),
 
     // File hashing threshold
-    'hash_size_limit' => 268435456, // 256 MB
+    'hash_size_limit' => 1073741824, // 1024 MB
 
     // Custom sort order
     'reverse_sort' => array(
