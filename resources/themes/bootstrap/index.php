@@ -23,33 +23,8 @@
     <!-- META -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-6660944894347757",
-            enable_page_level_ads: true
-        });
-    </script>
-    <center>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Responsive -->
-<ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-6660944894347757"
-data-ad-slot="5459470774"
-data-ad-format="auto"
-data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- Billboard -->
-    <ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-6660944894347757"
-        data-ad-slot="4149268859"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-    </center>
+    <script data-ad-client="ca-pub-4420370595723249" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132900199-1"></script>
     <script>
@@ -192,26 +167,6 @@ data-full-width-responsive="true"></ins>
             </div>
         </div>
     </div>
-    <center>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <!-- Billboard -->
-    <ins class="adsbygoogle" style="display:inline-block;width:970px;height:250px" data-ad-client="ca-pub-6660944894347757"
-        data-ad-slot="4149268859"></ins>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Responsive -->
-<ins class="adsbygoogle"
-style="display:block"
-data-ad-client="ca-pub-6660944894347757"
-data-ad-slot="5459470774"
-data-ad-format="auto"
-data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-    </center>
 
 </body>
 
