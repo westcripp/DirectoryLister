@@ -33,12 +33,12 @@
     </script>
     <center>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- responsive -->
+<!-- Responsive -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-4420370595723249"
-     data-ad-slot="1898185979"
-     data-ad-format="link"
+     data-ad-slot="6330190584"
+     data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
@@ -208,12 +208,12 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- responsive -->
+<!-- Responsive -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-4420370595723249"
-     data-ad-slot="1898185979"
-     data-ad-format="link"
+     data-ad-slot="6330190584"
+     data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
