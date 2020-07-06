@@ -27,7 +27,7 @@
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
         (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "ca-pub-6660944894347757",
+            google_ad_client: "ca-pub-4420370595723249",
             enable_page_level_ads: true
         });
     </script>
@@ -46,7 +46,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Large Leaderboard -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
+     style="display:inline-block;width:970px;height:250px"
      data-ad-client="ca-pub-4420370595723249"
      data-ad-slot="1820972073"></ins>
 <script>
@@ -201,7 +201,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- Large Leaderboard -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
+     style="display:inline-block;width:970px;height:250px"
      data-ad-client="ca-pub-4420370595723249"
      data-ad-slot="1820972073"></ins>
 <script>
